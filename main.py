@@ -1,3 +1,5 @@
+# P.S. this is licenced under gpl 3 so yeah
+
 # importing libraries
 import random
 import string
